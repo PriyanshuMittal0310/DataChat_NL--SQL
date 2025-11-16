@@ -19,10 +19,11 @@ DataChat is an AI-powered data analytics system that allows users to:
 This project integrates Next.js App Router, Supabase, Groq LLM, Ollama embeddings, and pgvector to create a complete NL → SQL → Analytics pipeline.
 
 👥 Team Members
-Name	Roll No.	Contribution
-Member 1	XXXXX	Backend, RAG pipeline, embeddings, Supabase integration
-Member 2	XXXXX	Frontend UI, chat interface, table & chart components
-Member 3	XXXXX	Testing, documentation, integration, debugging
+Name	          Roll No.	      Contribution
+PIYUSH PRASHANT	  24BDS055	       RAG pipeline, embeddings
+MS HARSHITHA	  24BDS038	       Testing, documentation, integration
+PRIYANSHU MITTAL  24BDS058	       Backend, Supabase integration, Visualisation
+JAKKUVA SAMEER    24BDS026         Frontend UI,Debugging
 
 Replace placeholders with your actual details before submission.
 
@@ -216,12 +217,11 @@ Run dev server	npm run dev
 Open app	http://localhost:3000
 
 
-🎥 2-Minute Demo Video (Required for Submission)
+🎥  Demo Video (Required for Submission)
 
-Upload to Drive or YouTube
-Replace link:
+Google drive link:
 
-👉 https://youtu.be/YOUR_DEMO_LINK
+👉 https://drive.google.com/file/d/1sse8FFnlriYNVltsP1hpq3QQq2qXtd3b/view?usp=sharing
 
 Suggested Script:
 
