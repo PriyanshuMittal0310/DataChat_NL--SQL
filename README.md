@@ -378,8 +378,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions or support, please reach out to the team:
 
 - **Project Lead**: Priyanshu Mittal
-- **Email**: contact@datachat-project.com
-- **GitHub Issues**: [Report a bug](https://github.com/yourusername/datachat-nl-sql/issues)
+
 
 ---
 
